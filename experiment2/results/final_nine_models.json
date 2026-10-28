@@ -1,0 +1,47 @@
+{
+  "BERT multilingual cased": {
+    "Precision": 0.5998,
+    "Recall": 0.5223,
+    "F1": 0.5584
+  },
+  "Press FastText CBOW": {
+    "Precision": 0.3825463239689181,
+    "Recall": 0.3106796116504854,
+    "F1": 0.342887757835521
+  },
+  "Press Word2Vec Skip-gram": {
+    "Precision": 0.3476932477849068,
+    "Recall": 0.2762135922330097,
+    "F1": 0.3078587853374814
+  },
+  "Press Word2Vec CBOW": {
+    "Precision": 0.3213422007255139,
+    "Recall": 0.258009708737864,
+    "F1": 0.286214324178783
+  },
+  "Press GloVe": {
+    "Precision": 0.3278843131090851,
+    "Recall": 0.2531553398058252,
+    "F1": 0.2857142857142856
+  },
+  "Medical GloVe": {
+    "Precision": 0.3973078593139383,
+    "Recall": 0.2220873786407767,
+    "F1": 0.2849135917795423
+  },
+  "Medical Word2Vec Skip-gram": {
+    "Precision": 0.2418319719953325,
+    "Recall": 0.2012135922330097,
+    "F1": 0.2196608373078961
+  },
+  "Medical Word2Vec CBOW": {
+    "Precision": 0.294250281848929,
+    "Recall": 0.0633495145631067,
+    "F1": 0.1042540443379269
+  },
+  "Medical FastText CBOW": {
+    "Precision": 0.1009771986970684,
+    "Recall": 0.0075242718446601,
+    "F1": 0.0140049695053083
+  }
+}

@@ -1,0 +1,9 @@
+Embedding,Dimension,Train vocabulary coverage
+Medical Word2Vec CBOW,100,1.0
+Medical Word2Vec Skip-gram,100,1.0
+Medical FastText CBOW,100,1.0
+Medical GloVe,100,1.0
+Press Word2Vec CBOW,100,0.46267105491079163
+Press Word2Vec Skip-gram,100,0.46267105491079163
+Press FastText CBOW,100,1.0
+Press GloVe,100,0.46267105491079163

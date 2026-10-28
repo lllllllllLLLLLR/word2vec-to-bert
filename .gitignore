@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# data and model weights (not committed)
+models_word_vectors/
+TP_ISD2020/
+tp2_bert_model/
+*.pt
+*.pth
+*.h5
+
+# intermediate artifacts
+*.npz
+*.bak
