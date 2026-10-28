@@ -1,6 +1,6 @@
 # Word2Vec to BERT — French Medical Named Entity Recognition
 
-Two practicals on semantic representations (M2 NLP, Université Paris-Saclay): from static word embeddings (Word2Vec, FastText, GloVe) to a contextual Transformer (BERT), evaluated on French medical named entity recognition.
+Two practicals on semantic representations: from static word embeddings (Word2Vec, FastText, GloVe) to a contextual Transformer (BERT), evaluated on French medical named entity recognition.
 
 ## Highlights
 
