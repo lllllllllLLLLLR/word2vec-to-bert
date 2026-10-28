@@ -1,4 +1,4 @@
-# Word2Vec to BERT — French Medical NER
+# Word2Vec to BERT (based on Glove Report)
 
 Course practical on semantic representations: from static word embeddings (Word2Vec, FastText, GloVe) to a contextual Transformer (BERT), evaluated on French medical named entity recognition. 
 
