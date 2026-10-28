@@ -1,6 +1,6 @@
 # Word2Vec to BERT (based on Glove Report)
 
-Course practical on semantic representations: from static word embeddings (Word2Vec, FastText, GloVe) to a contextual Transformer (BERT), evaluated on French medical named entity recognition. 
+Course practical on **Foundation of LLM** : from static word embeddings (Word2Vec, FastText, GloVe) to a contextual Transformer (BERT), evaluated on French medical named entity recognition. 
 
 ## Highlights
 
