@@ -1,6 +1,6 @@
 # Word2Vec to BERT — French Medical NER
 
-Course practical on semantic representations: from static word embeddings (Word2Vec, FastText, GloVe) to a contextual Transformer (BERT), evaluated on French medical named entity recognition. Course page: https://saharghannay.github.io/courses/cours1/
+Course practical on semantic representations: from static word embeddings (Word2Vec, FastText, GloVe) to a contextual Transformer (BERT), evaluated on French medical named entity recognition. 
 
 ## Highlights
 
